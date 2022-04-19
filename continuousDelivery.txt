@@ -1,0 +1,11 @@
+continuous delivery: taking the build application 
+that you've tested & deploying that onto the process
+servers for release in an automated fashion
+puppet is configuration management tool used for
+deploying,configuring & managing servers
+possibke to define distinct configurations for each &
+every host as well as continuously check & confirm 
+if required config is in place & not altered on host
+if altered puppet will revert back to reqd config
+it also helps in dynamic scaling up & down of machines
+ 
