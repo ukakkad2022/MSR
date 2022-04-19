@@ -1,0 +1,11 @@
+continuous integration: developers required to commit
+changes to the source code frequently
+every commit ade in the repo is then built
+
+the moment any developer commits a change to the source 
+code jenkins server pulls that & prepares a build
+build includes processes like:
+compiling code
+code review
+integration testing,etc
+

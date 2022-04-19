@@ -1,0 +1,7 @@
+  phases in devops
+continuous development
+   "       testing
+   "       integration
+   "       deployment
+   "       monitoring
+all these are in parallel

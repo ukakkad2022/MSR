@@ -1,0 +1,33 @@
+who is a devOps engineer?
+
+he is responsible for:
+
+designing as well as
+
+maintaining the software development pipeline
+has excellent communication skills that help convey 
+ideas and xchange info between diff teams
+automating processes
+
+writing automation scripts
+
+knows how to keep the whole infra secure & robust
+makes sure daily needs of cloud are fulfilled
+
+optimisation
+
+managing permissions
+
+documentations
+
+devOps engineer has knowledge of:
+db tech
+server tech
+cloud tech
+ContinuousIntegration & ContinuousDeployment
+automation
+scripting
+networking
+excellent communication
+knowledge of windows & linux
+source control

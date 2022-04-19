@@ -1,0 +1,19 @@
+Relationship between Agile Methodology & DevOps
+
+idea of agile is to make sure that teams work faster
+& more efficiently in regular sprints while 
+continuously improving based on feedback given to them.
+agile was used only by developing teams 
+thus, while successful at improving development speed,
+testing & operations were still lacking
+
+agile methodology involves multiple iterations of design,testing  & discovery
+
+every project is broken up into a number of iterations of same time duration
+
+limitations of agile
+
+conflict between dev team & operations team
+
+devops methodology is practice of ops & development engineers working todether
+to deliver a useful sw

@@ -1,0 +1,10 @@
+nagios is used for continuous monitnoring
+
+Continuous monitoring in DevOps is the process of
+ identifying threats to the security and compliance 
+rules of a software development cycle and 
+architecture. 
+
+Where Continuous Deployment focuses on the actual 
+deployment, Continuous Delivery focuses on the 
+release and release strategy

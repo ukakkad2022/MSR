@@ -1,0 +1,20 @@
+Waterfall model used in software development methodology used earlier
+application moves on to next stage of development only
+when the previous stage is complete
+stages in waterfall model
+requirement gathering & analysis
+design
+implementation
+test
+deploy
+maintenance
+
+disadv
+difficult to go back to previous stages from the 
+testing stage if any concept is not well thought out in
+in concept phase
+no working sw produced till late in the life cycle
+high risk & uncertainity
+not suited to complex & object oriented projects
+not suited to projects with changing requirements
+

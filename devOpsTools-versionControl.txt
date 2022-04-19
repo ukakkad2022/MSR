@@ -1,0 +1,27 @@
+Version Control
+store & organise different versions of a code
+practice of managing & storing different versions of
+source code
+it organises the code & all its different versions--
+it manages & stores different versions of a source 
+code
+a version control system(VCS) allows for:
+quick code delivery
+automatic job triggering
+allows easy automation of entire software development
+pipeline
+mixes well with devops ideology
+following adv:
+allows for greater control over sw development
+allows for greater security by allowing access to 
+authorised personnel
+allows for fast delivery
+
+two types:
+centralised vcs: uses centralised repository to store
+all files from which team members can access files & 
+make changes as required
+main adv: always know who made changes to source code
+disadv: requires 24X7 network connectivity
+central serer crashes data lost
+distributed vcs

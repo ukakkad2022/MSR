@@ -1,0 +1,5 @@
+versionControlSystem-Git
+what is it? it is an Open source vcs that allows a
+user to keep track of all changes made to the sw source
+code.
+github is a distributed repository for storing all our code

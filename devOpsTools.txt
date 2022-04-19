@@ -1,0 +1,35 @@
+DevOps Tools
+
+continuous development : git,mercurial, azure repository
+source code management tools
+
+building tools: help in code building process
+ant,maven,gradle,msbuild
+
+database management tools: mysql, mariadb
+
+continuous testing tools: selenium, pytest, katalon
+static testing:while writing code
+dynamic testing:slenium scripts run over your code &
+check if they satisfy requirements
+
+continuous integration: jenkins, gitlab:
+joins/integrates work of software development teams
+
+continuous deployment: put code into production server
+xl deploy,juju
+
+configuration management tools: help update & manage
+a number of computers at the same time
+ansible, ched, salt stack, puppet
+
+orchestration tool: kubernetes, docker,ecs
+
+artefact repositories: jfrog artifactory, npm
+
+cloud services: aws, gcp
+
+continuous monitoring: prometheus, splunl
+
+scripting: python,java,.net
+
