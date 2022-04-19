@@ -1,4 +1,4 @@
-devOps Priniciples
+  devOps Priniciples
 customer centric action: all decisions taken must be 
 to the benefit of the customer otherwise requires
 rethinking
