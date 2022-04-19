@@ -1,0 +1,12 @@
+devOps Priniciples
+customer centric action: all decisions taken must be 
+to the benefit of the customer otherwise requires
+rethinking
+create with the end goal in mind:
+end to end responsibility: rectify faults at customer 
+end NO BLAME GAME
+no silos: proper exchange of ideas between various 
+teams
+continuous improvement:
+automate everything you can: remove mindset that
+this guy is gonna do this
